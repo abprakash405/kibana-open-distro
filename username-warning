@@ -1,0 +1,7 @@
+  log   [13:41:39.367] [info][plugins-service] Plugin "case" is disabled.
+  log   [13:41:39.375] [info][plugins-service] Plugin "security" is disabled.
+  log   [13:41:45.518] [warning][config][deprecation] Setting [elasticsearch.username] to "elastic" is deprecated. You should use the "kibana" user instead.
+  log   [13:41:45.519] [warning][config][deprecation] Setting [xpack.monitoring.elasticsearch.username] to "elastic" is deprecated. You should use the "kibana" user instead.
+  log   [13:41:45.587] [info][plugins-system] Setting up [36] plugins: [taskManager,siem,licensing,infra,encryptedSavedObjects,code,usageCollec
+  
+  
